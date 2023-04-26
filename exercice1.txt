@@ -18,6 +18,7 @@ git commit -m "ajout de la classe Voiture"
 
 git branch dev "id-commit-Animal"
 
+git checkout "id-class-Animal"
 git checkout dev
 
 git add cheval.cs
